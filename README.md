@@ -1,0 +1,8 @@
+# TicketsApp
+
+This was a projected done while combining the modules of Object Oriented Programming with Objected Oriented Analysis, where we first designed and analysed the diferent requirents, non functions, functions and designed a UML diagram to put together an application that runs in C++ console where a customer can login on the app and then can edit his profile information such as address, name and billing information. It can also pick between a list of shows available and the time. After it will display and interactive map of the seats where the customer can pick the number of tickets to purschase as well as visually selecting the best seats for the best experience, where the seats have different states, Available, Held or Unavailable. 
+Finally the prices are meant to be calculated based on the show and number of tickets, then the app uses the profile information to check the billing details of the customer and finish the purschase which then the tickets would be sent to the customer based on the address of the customer. Also this same address would be used in the future for marketing purposes, announcing future shows that the customer would be interested in.
+
+[For this academic project, the code is not completed, last steps of the purschase are missing. This is a work in Progress]
+
+Working on this project made me understand very well the OOP pillars, such as Inheritance, polymorphism and encapsulation. Furthermore, made me understand how designing the application is far more important than the code itself, laying down the requirments, using class and sequence diagrams, writting pseudocde it is very important to make a successful app.  
